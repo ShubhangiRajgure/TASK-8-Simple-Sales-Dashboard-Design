@@ -1,0 +1,9 @@
+Sales Insights from Superstore Data
+
+1. The West region consistently records the highest sales compared to other regions.
+
+2. Technology is the top-performing category, contributing the largest share of overall revenue.
+
+3. Sales show a seasonal peak in November and December, indicating strong year-end demand.
+
+4. Despite good sales volume, the Furniture category often yields lower profit margins compared to Technology.
